@@ -7,7 +7,7 @@
 	},
 	"name": "CI|CD Test Package No.84782",
 	"description": "This is sample package for CI|CD Test no.59690",
-	"ver": "23.3.21.1052",
+	"ver": "23.3.21.137",
 	"enableCICD": true,
 	"apps": [],
 	"api": [],
