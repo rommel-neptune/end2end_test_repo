@@ -1,0 +1,48 @@
+{
+	"id": "15167406-e205-47a2-85ab-ed912c32c6f8",
+	"createdAt": "2023-03-21T10:36:08.474Z",
+	"createdBy": "playwright",
+	"git": {
+		"remote": "https://github.com/rommel-neptune/end2end_test_repo"
+	},
+	"name": "CI|CD Test Package No.84782",
+	"description": "This is sample package for CI|CD Test no.59690",
+	"ver": "23.3.21.1052",
+	"enableCICD": true,
+	"apps": [],
+	"api": [],
+	"odataSource": [],
+	"odataMock": [],
+	"dictionary": [],
+	"jsclass": [],
+	"jsscript_group": [],
+	"theme": [
+		{
+			"id": "49b94de4-de77-4986-bd3b-0d096e5c4aba",
+			"name": "Package - CI|CD Test Theme No.69917",
+			"description": "This is sample theme for CI|CD Test no.69917"
+		}
+	],
+	"pdf": [],
+	"rulesengine": [],
+	"reports": [],
+	"api_authentication": [],
+	"api_group": [],
+	"tile": [],
+	"category": [],
+	"launchpad": [],
+	"certificates": [],
+	"role": [],
+	"systems": [],
+	"doc": [],
+	"wf_notifications": [],
+	"department": [],
+	"script_scheduler": [],
+	"wf_definition": [],
+	"connector": [],
+	"events": [],
+	"media_library": [],
+	"code_snippets": [],
+	"wf_determination": [],
+	"wf_taskaction": []
+}
