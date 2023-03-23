@@ -1,13 +1,13 @@
 {
-	"id": "22831cb7-eeb5-4ad7-aa88-103a3f7ee2fc",
-	"createdAt": "2023-03-23T16:28:52.160Z",
+	"id": "59be0166-702a-48d3-bd95-913e54bbdbb3",
+	"createdAt": "2023-03-23T16:51:47.036Z",
 	"createdBy": "playwright",
 	"git": {
 		"remote": "https://github.com/rommel-neptune/end2end_test_repo"
 	},
-	"name": "CI|CD Test Package No.78567",
-	"description": "This is sample package for CI|CD Test no.78567",
-	"ver": "23.3.23.1630",
+	"name": "CI|CD Test Package No.96816",
+	"description": "This is sample package for CI|CD Test no.96816",
+	"ver": "23.3.23.1653",
 	"enableCICD": true,
 	"apps": [],
 	"api": [],
@@ -18,9 +18,9 @@
 	"jsscript_group": [],
 	"theme": [
 		{
-			"id": "5e030eb6-7bdc-4573-8a86-bfeabd2aad41",
-			"name": "Package - CI|CD Test Theme No.28150",
-			"description": "This is sample theme for CI|CD Test no.28150"
+			"id": "4a417aed-19da-4f68-8a1a-100cce06dc72",
+			"name": "Package - CI|CD Test Theme No.58857",
+			"description": "This is sample theme for CI|CD Test no.58857"
 		}
 	],
 	"pdf": [],
