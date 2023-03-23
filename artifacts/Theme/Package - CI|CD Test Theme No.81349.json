@@ -1,0 +1,13 @@
+{
+	"id": "b40cd3ea-30cc-4fca-b210-6571ad15d966",
+	"createdAt": "2023-03-23T15:27:27.689Z",
+	"createdBy": "playwright",
+	"content": [],
+	"name": "Package - CI|CD Test Theme No.81349",
+	"ver": "23.3.23.1527",
+	"description": "This is sample theme for CI|CD Test no.81349",
+	"ui5Theme": "sap_belize_plus",
+	"stylesheet": null,
+	"calculated": "",
+	"package": "1f2708e9-ab63-4586-9563-78196a41eae3"
+}
