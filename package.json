@@ -1,7 +1,7 @@
 {
-  "name": "CI|CDTestPackageNo.81349",
+  "name": "end2end-package-v1",
   "version": "1.0.0",
-  "description": "This is sample package for CI|CD Test no.81349",
+  "description": "This is sample package for End2End Test - version 1",
   "author": "Neptune Software",
   "license": "LicenseRef-LICENSE",
   "private": true,

@@ -1,13 +1,13 @@
 {
-	"id": "59be0166-702a-48d3-bd95-913e54bbdbb3",
-	"createdAt": "2023-03-23T16:51:47.036Z",
+	"id": "6b534a7f-8e26-419e-8975-1f643dd6406b",
+	"createdAt": "2023-09-06T19:10:47.301Z",
 	"createdBy": "playwright",
 	"git": {
 		"remote": "https://github.com/rommel-neptune/end2end_test_repo"
 	},
-	"name": "CI|CD Test Package No.96816",
-	"description": "This is sample package for CI|CD Test no.96816",
-	"ver": "23.3.23.1653",
+	"name": "end2end-package-v1",
+	"description": "This is sample package for End2End Test - version 1",
+	"ver": "23.9.6.2026",
 	"enableCICD": true,
 	"apps": [],
 	"api": [],
@@ -18,9 +18,9 @@
 	"jsscript_group": [],
 	"theme": [
 		{
-			"id": "4a417aed-19da-4f68-8a1a-100cce06dc72",
-			"name": "Package - CI|CD Test Theme No.58857",
-			"description": "This is sample theme for CI|CD Test no.58857"
+			"id": "3363cb61-b10e-4a68-bb58-ba2c162502c5",
+			"name": "Package - End2End Test Theme - Version 1",
+			"description": "This is sample theme for End2End Test - version 1"
 		}
 	],
 	"pdf": [],
@@ -41,7 +41,6 @@
 	"wf_definition": [],
 	"connector": [],
 	"events": [],
-	"media_library": [],
 	"code_snippets": [],
 	"wf_determination": [],
 	"wf_taskaction": []
