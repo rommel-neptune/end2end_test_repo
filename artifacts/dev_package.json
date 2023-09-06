@@ -7,7 +7,7 @@
 	},
 	"name": "end2end-package-v1",
 	"description": "This is sample package for End2End Test - version 1",
-	"ver": "23.9.6.2026",
+	"ver": "23.9.6.2030",
 	"enableCICD": true,
 	"apps": [],
 	"api": [],
