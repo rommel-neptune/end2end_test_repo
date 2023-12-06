@@ -1,13 +1,13 @@
 {
-	"id": "baa1ea51-4263-47b6-84bf-fed8741c5627",
-	"createdAt": "2023-12-05T12:49:44.293Z",
+	"id": "f5750869-cb27-4544-84db-ee28b16e0a99",
+	"createdAt": "2023-12-06T13:44:04.138Z",
 	"createdBy": "playwright",
 	"git": {
 		"remote": "https://github.com/rommel-neptune/end2end_test_repo"
 	},
 	"name": "end2end-package-v1",
 	"description": "This is sample package for End2End Test - version 1",
-	"ver": "23.12.5.1251",
+	"ver": "23.12.6.1346",
 	"enableCICD": true,
 	"apps": [],
 	"api": [],
@@ -18,7 +18,7 @@
 	"jsscript_group": [],
 	"theme": [
 		{
-			"id": "82a7bbf1-3ef3-4c34-8e9a-b65abfa9ad60",
+			"id": "45f4104e-5838-475e-b6d9-cd485268f462",
 			"name": "Package - End2End Test Theme - Version 1",
 			"description": "This is sample theme for End2End Test - version 1"
 		}
