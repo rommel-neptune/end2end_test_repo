@@ -1,13 +1,13 @@
 {
-	"id": "f2e82749-2211-40c6-8ae1-512c62edab11",
-	"createdAt": "2024-06-05T21:58:35.395Z",
+	"id": "632bad73-e515-466c-86c2-8f93128ff0bd",
+	"createdAt": "2024-06-07T08:36:53.083Z",
 	"createdBy": "playwright",
 	"content": [],
 	"name": "Package - End2End Test Theme - Version 1",
-	"ver": "24.06.05.2158",
+	"ver": "24.06.07.0836",
 	"description": "This is sample theme for End2End Test - version 1",
 	"ui5Theme": "sap_belize_plus",
 	"stylesheet": null,
 	"calculated": "",
-	"package": "283957e1-f420-4190-b3b7-ca2815812a5c"
+	"package": "363fd5a6-1e83-4938-b6fd-6cac60f0b903"
 }
