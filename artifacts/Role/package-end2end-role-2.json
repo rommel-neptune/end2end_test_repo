@@ -1,10 +1,10 @@
 {
-	"id": "cf2363ce-72cd-4b14-b446-ebbd74323b8c",
-	"createdAt": "2024-06-07T08:38:10.069Z",
+	"id": "35953da7-01e2-4f62-b3fe-aa465b206835",
+	"createdAt": "2024-06-07T08:49:38.692Z",
 	"createdBy": "playwright",
 	"name": "package-end2end-role-2",
 	"description": null,
-	"ver": "24.06.07.0838",
-	"package": "363fd5a6-1e83-4938-b6fd-6cac60f0b903",
+	"ver": "24.06.07.0849",
+	"package": "f8a91c00-10ee-4f3d-bce3-3121cafd2a1e",
 	"acl": []
 }
