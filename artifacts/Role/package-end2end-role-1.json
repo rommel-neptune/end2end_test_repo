@@ -1,11 +1,11 @@
 {
-	"id": "5e849efc-2dc5-4e3e-8ffb-face151681de",
-	"createdAt": "2024-06-07T08:48:48.248Z",
+	"id": "6b60668d-66cf-442a-b489-031d61ba598a",
+	"createdAt": "2024-06-07T09:35:10.341Z",
 	"createdBy": "playwright",
 	"name": "package-end2end-role-1",
 	"description": null,
-	"ver": "24.06.07.0848",
-	"package": "f8a91c00-10ee-4f3d-bce3-3121cafd2a1e",
+	"ver": "24.06.07.0935",
+	"package": "5b5f210e-428c-4883-baef-652d0f1bb1d2",
 	"acl": [
 		{
 			"id": "workflowtaskaction_E",
