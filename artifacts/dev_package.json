@@ -1,13 +1,13 @@
 {
-	"id": "8d4ac045-6e3c-4f30-b7b9-947ce6775269",
-	"createdAt": "2024-06-07T09:46:04.630Z",
+	"id": "dd5822c4-aad1-4e0f-8a0f-ef3437cb0160",
+	"createdAt": "2024-06-08T02:18:25.268Z",
 	"createdBy": "playwright",
 	"git": {
 		"remote": "https://github.com/rommel-neptune/end2end_test_repo"
 	},
 	"name": "development-package-end2end-package-1",
 	"description": "This is sample package for End2End Test - version 1",
-	"ver": "24.06.07.0950",
+	"ver": "24.06.08.0223",
 	"enableCICD": true,
 	"excludeTemplateFiles": true,
 	"roles": [],
@@ -20,7 +20,7 @@
 	"jsscript_group": [],
 	"theme": [
 		{
-			"id": "0f3925e2-b195-488a-841d-7c0b451535e3",
+			"id": "8bdf8311-0d51-4114-828d-c3ca4200def8",
 			"name": "Package - End2End Test Theme - Version 1",
 			"description": "This is sample theme for End2End Test - version 1"
 		}
@@ -36,13 +36,13 @@
 	"certificates": [],
 	"role": [
 		{
-			"id": "8a697a09-d15e-4bb7-bcc2-bafe5da33820",
-			"name": "package-end2end-role-2",
+			"id": "e13c7135-4218-47b4-b7fe-6b2ed8919d47",
+			"name": "package-end2end-role-1",
 			"description": null
 		},
 		{
-			"id": "48259af2-34e4-4901-ab2b-1566be338522",
-			"name": "package-end2end-role-1",
+			"id": "0e349029-af4d-4136-aab0-fd6274ed408b",
+			"name": "package-end2end-role-2",
 			"description": null
 		}
 	],
