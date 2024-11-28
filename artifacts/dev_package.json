@@ -1,14 +1,17 @@
 {
-	"id": "0586b89e-ebae-40c2-90e5-7c3540a91a29",
-	"createdAt": "2024-06-11T02:18:50.381Z",
+	"id": "f4ff1712-b1ad-ef11-88cf-0022489c98d9",
+	"createdAt": "2024-11-28T17:49:10.623Z",
 	"createdBy": "playwright",
 	"git": {
-		"remote": "https://github.com/rommel-neptune/end2end_test_repo"
+		"remote": "https://github.com/rommel-neptune/end2end_test_repo",
+		"branch": "main"
 	},
 	"name": "development-package-end2end-package-1",
 	"description": "This is sample package for End2End Test - version 1",
-	"ver": "24.06.11.0223",
+	"ver": "24.11.28.2250",
 	"enableCICD": true,
+	"internalReadOnly": false,
+	"oeVersion": null,
 	"excludeTemplateFiles": true,
 	"roles": [],
 	"apps": [],
@@ -18,31 +21,34 @@
 	"dictionary": [],
 	"jsclass": [],
 	"jsscript_group": [],
-	"theme": [
-		{
-			"id": "de853c54-4d6d-4203-b7c1-3e129420948d",
-			"name": "Package - End2End Test Theme - Version 1",
-			"description": "This is sample theme for End2End Test - version 1"
-		}
-	],
+	"theme": [],
 	"pdf": [],
 	"rulesengine": [],
 	"reports": [],
 	"api_authentication": [],
 	"api_group": [],
 	"tile": [],
+	"tile_layout": [],
 	"category": [],
-	"launchpad": [],
+	"tilegroup_layout": [],
+	"launchpad": [
+		{
+			"id": "9baf526e-b1ad-ef11-88cf-0022489c98d9",
+			"name": "package-end2end-launchpad-version-1",
+			"description": "This is a sample launchpad for end2end test - version 1"
+		}
+	],
+	"launchpad_layout": [],
 	"certificates": [],
 	"role": [
 		{
-			"id": "a9364bf2-6b83-48b7-b8e1-702235cfe504",
-			"name": "package-end2end-role-2",
+			"id": "84e14467-b3ad-ef11-88cf-0022489c98d9",
+			"name": "package-end2end-role-1",
 			"description": null
 		},
 		{
-			"id": "83be1c38-be8c-4bf4-80d5-ceba80b8fefe",
-			"name": "package-end2end-role-1",
+			"id": "69f59a1f-b7ad-ef11-88cf-0022489c98d9",
+			"name": "package-end2end-role-59767",
 			"description": null
 		}
 	],
@@ -56,5 +62,6 @@
 	"events": [],
 	"code_snippets": [],
 	"wf_determination": [],
-	"wf_taskaction": []
+	"wf_taskaction": [],
+	"theme_ui5": []
 }

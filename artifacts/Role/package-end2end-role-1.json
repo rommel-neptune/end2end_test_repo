@@ -1,11 +1,12 @@
 {
-	"id": "83be1c38-be8c-4bf4-80d5-ceba80b8fefe",
-	"createdAt": "2024-06-11T02:20:49.302Z",
+	"id": "84e14467-b3ad-ef11-88cf-0022489c98d9",
+	"createdAt": "2024-11-28T18:05:57.356Z",
 	"createdBy": "playwright",
 	"name": "package-end2end-role-1",
 	"description": null,
-	"ver": "24.06.11.0220",
-	"package": "0586b89e-ebae-40c2-90e5-7c3540a91a29",
+	"ver": "24.11.28.1806",
+	"isGlobalAdmin": false,
+	"package": "f4ff1712-b1ad-ef11-88cf-0022489c98d9",
 	"acl": [
 		{
 			"id": "workflowtaskaction_E",
@@ -50,6 +51,10 @@
 		{
 			"id": "toolsjobscheduler_E",
 			"name": "Job Manage"
+		},
+		{
+			"id": "toolsiconexplorer_E",
+			"name": "Icon Explorer"
 		},
 		{
 			"id": "toolshousekeeping_E",
@@ -196,12 +201,20 @@
 			"name": "Help"
 		},
 		{
+			"id": "developmenttilelayout_E",
+			"name": "Tile Layout"
+		},
+		{
+			"id": "developmenttilegrouplayout_E",
+			"name": "Tile Group Layout"
+		},
+		{
 			"id": "developmentthemeimport_E",
-			"name": "Theme Import "
+			"name": "UI5 Theme Import"
 		},
 		{
 			"id": "developmentthemedesigner_E",
-			"name": "Theme Designer "
+			"name": "Global Style"
 		},
 		{
 			"id": "developmentrulesengine_E",
@@ -260,8 +273,8 @@
 			"name": "Deployment Create"
 		},
 		{
-			"id": "developmentappeditor_E",
-			"name": "App Editor"
+			"id": "developmentcockpit_D",
+			"name": "Cockpit"
 		},
 		{
 			"id": "developmentappdesigner_E",
