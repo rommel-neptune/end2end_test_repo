@@ -1,6 +1,6 @@
 {
-	"id": "9baf526e-b1ad-ef11-88cf-0022489c98d9",
-	"createdAt": "2024-11-28T17:51:45.360Z",
+	"id": "2b545881-42ae-ef11-88cf-0022489c98d9",
+	"createdAt": "2024-11-29T11:10:14.300Z",
 	"createdBy": "playwright",
 	"extUserRoles": [],
 	"extUserDepartments": [],
@@ -44,7 +44,7 @@
 	"searchEnableShadeCalc": null,
 	"usedEnableShadeCalc": null,
 	"enableTrace": false,
-	"ver": "24.11.28.1751",
+	"ver": "24.11.29.1110",
 	"pwa_enable": false,
 	"pwa_customImageIos": null,
 	"pwa_customImageAndroidOld": null,
@@ -60,6 +60,6 @@
 	"passwordResetEmail": null,
 	"activationCodeEmail": null,
 	"noSubmenuHover": false,
-	"package": "f4ff1712-b1ad-ef11-88cf-0022489c98d9",
+	"package": "bf75f658-42ae-ef11-88cf-0022489c98d9",
 	"cat": []
 }
