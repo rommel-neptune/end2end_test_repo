@@ -8,7 +8,7 @@
 	},
 	"name": "development-package-end2end-package-1",
 	"description": "This is sample package for End2End Test - version 1",
-	"ver": "24.12.04.2004",
+	"ver": "24.12.04.2045",
 	"enableCICD": true,
 	"internalReadOnly": false,
 	"oeVersion": null,
@@ -31,21 +31,10 @@
 	"tile_layout": [],
 	"category": [],
 	"tilegroup_layout": [],
-	"launchpad": [
-		{
-			"id": "5c111443-84b6-45be-bce2-c4d2a44e9b58",
-			"name": "package-end2end-launchpad-version-1",
-			"description": "This is a sample launchpad for end2end test - version 1"
-		}
-	],
+	"launchpad": [],
 	"launchpad_layout": [],
 	"certificates": [],
 	"role": [
-		{
-			"id": "e3b6dd04-540e-4729-bfda-7add4ad25136",
-			"name": "package-end2end-role-1",
-			"description": null
-		},
 		{
 			"id": "15a402ab-56bd-4a0c-a3be-481eac877d3d",
 			"name": "package-end2end-role-51543",
