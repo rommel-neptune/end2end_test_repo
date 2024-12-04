@@ -1,0 +1,11 @@
+{
+	"id": "3f00c8f0-c70e-4d56-970e-f0136e98a309",
+	"createdAt": "2024-12-04T23:15:24.012Z",
+	"createdBy": "playwright",
+	"name": "package-end2end-role-1",
+	"description": "This is a sample role for End2End Test - 1",
+	"ver": "24.12.04.2315",
+	"isGlobalAdmin": false,
+	"package": "d5c3a481-30e2-4537-9215-b1bb11ffdc85",
+	"acl": []
+}
