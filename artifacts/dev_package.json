@@ -8,7 +8,7 @@
 	},
 	"name": "development-package-end2end-package-1",
 	"description": "This is sample package for End2End Test - version 1",
-	"ver": "24.12.04.2245",
+	"ver": "24.12.04.2301",
 	"enableCICD": true,
 	"internalReadOnly": false,
 	"oeVersion": null,
