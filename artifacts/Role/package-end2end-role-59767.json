@@ -1,0 +1,11 @@
+{
+	"id": "69f59a1f-b7ad-ef11-88cf-0022489c98d9",
+	"createdAt": "2024-11-28T18:32:30.280Z",
+	"createdBy": "playwright",
+	"name": "package-end2end-role-59767",
+	"description": null,
+	"ver": "24.11.28.1832",
+	"isGlobalAdmin": false,
+	"package": "f4ff1712-b1ad-ef11-88cf-0022489c98d9",
+	"acl": []
+}
