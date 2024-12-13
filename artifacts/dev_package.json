@@ -8,7 +8,7 @@
 	},
 	"name": "development-package-end2end-package-1",
 	"description": "This is sample package for End2End Test - version 1",
-	"ver": "24.12.12.0221",
+	"ver": "24.12.13.0221",
 	"enableCICD": true,
 	"internalReadOnly": false,
 	"oeVersion": null,
@@ -36,14 +36,14 @@
 	"certificates": [],
 	"role": [
 		{
+			"id": "a8f4e33e-38f4-440b-856e-cf605ee17378",
+			"name": "package-end2end-role-1",
+			"description": "This is a sample role for End2End Test - 1"
+		},
+		{
 			"id": "69f59a1f-b7ad-ef11-88cf-0022489c98d9",
 			"name": "package-end2end-role-59767",
 			"description": null
-		},
-		{
-			"id": "360c5e9f-e695-4dac-8071-b02f400734aa",
-			"name": "package-end2end-role-1",
-			"description": "This is a sample role for End2End Test - 1"
 		}
 	],
 	"systems": [],
