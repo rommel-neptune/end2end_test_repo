@@ -1,10 +1,10 @@
 {
-	"id": "b195fb9a-ff63-4dcd-811a-42cd957abe39",
-	"createdAt": "2024-12-17T02:19:59.055Z",
+	"id": "196045fa-a6e1-41cd-abb7-3b0bad8b766e",
+	"createdAt": "2024-12-18T02:17:39.622Z",
 	"createdBy": "playwright",
 	"name": "package-end2end-role-1",
 	"description": "This is a sample role for End2End Test - 1",
-	"ver": "24.12.17.0220",
+	"ver": "24.12.18.0217",
 	"isGlobalAdmin": false,
 	"package": "f4ff1712-b1ad-ef11-88cf-0022489c98d9",
 	"acl": []
