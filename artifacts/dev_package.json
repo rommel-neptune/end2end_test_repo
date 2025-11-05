@@ -8,7 +8,7 @@
 	},
 	"name": "development-package-cinightly-package-1",
 	"description": "This is sample package for End2End Test - version 1",
-	"ver": "25.11.05.1634",
+	"ver": "25.11.05.1643",
 	"enableCICD": true,
 	"internalReadOnly": false,
 	"oeVersion": null,
