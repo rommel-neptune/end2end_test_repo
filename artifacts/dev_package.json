@@ -1,14 +1,14 @@
 {
-	"id": "f4ff1712-b1ad-ef11-88cf-0022489c98d9",
-	"createdAt": "2024-11-28T17:49:10.623Z",
+	"id": "7f99c6a1-89b5-f011-8e61-002248a0159d",
+	"createdAt": "2025-10-30T12:12:05.990Z",
 	"createdBy": "playwright",
 	"git": {
 		"remote": "https://github.com/rommel-neptune/end2end_test_repo",
 		"branch": "main"
 	},
-	"name": "development-package-end2end-package-1",
+	"name": "development-package-cinightly-package-1",
 	"description": "This is sample package for End2End Test - version 1",
-	"ver": "25.01.03.1434",
+	"ver": "25.11.05.1634",
 	"enableCICD": true,
 	"internalReadOnly": false,
 	"oeVersion": null,
@@ -22,6 +22,7 @@
 	"jsclass": [],
 	"jsscript_group": [],
 	"theme": [],
+	"theme_generator": [],
 	"pdf": [],
 	"rulesengine": [],
 	"reports": [],
@@ -31,18 +32,24 @@
 	"tile_layout": [],
 	"category": [],
 	"tilegroup_layout": [],
-	"launchpad": [],
+	"launchpad": [
+		{
+			"id": "53c6b110-78b6-f011-8e61-000d3aba8177",
+			"name": "package-cinightly-launchpad-1",
+			"description": "This is a sample launchpad for end2end test - version 1"
+		}
+	],
 	"launchpad_layout": [],
 	"certificates": [],
 	"role": [
 		{
-			"id": "b7d1f5f1-034f-4a89-90c8-8160a54b23c3",
-			"name": "package-end2end-role-1",
-			"description": "This is a sample role for End2End Test - 1"
+			"id": "e60337e1-9db6-f011-8e61-000d3ab7e584",
+			"name": "package-end2end-role-84625",
+			"description": null
 		},
 		{
-			"id": "69f59a1f-b7ad-ef11-88cf-0022489c98d9",
-			"name": "package-end2end-role-59767",
+			"id": "4206ff24-7eb6-f011-8e61-000d3aba8177",
+			"name": "package-end2end-role-1",
 			"description": null
 		}
 	],
@@ -53,9 +60,18 @@
 	"script_scheduler": [],
 	"wf_definition": [],
 	"connector": [],
+	"i18n": [],
 	"events": [],
 	"code_snippets": [],
 	"wf_determination": [],
 	"wf_taskaction": [],
-	"theme_ui5": []
+	"theme_ui5": [],
+	"webapp": [],
+	"ui5_control": [],
+	"ai_agent": [],
+	"ai_model": [],
+	"ai_prompt": [],
+	"ai_tool": [],
+	"ai_guardrail": [],
+	"path_rewrite": []
 }

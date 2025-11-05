@@ -1,7 +1,7 @@
 {
-  "name": "development-package-end2end-package-1",
+  "name": "development-package-cinightly-package-1",
   "version": "1.0.0",
-  "description": "development-package-end2end-package-1",
+  "description": "This is sample package for End2End Test - version 1",
   "author": "Neptune Software",
   "license": "LicenseRef-LICENSE",
   "private": true,
