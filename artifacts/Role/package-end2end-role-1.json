@@ -1,12 +1,12 @@
 {
-	"id": "f0b25d22-9b03-45f5-90e3-47b6ff2afd5c",
-	"createdAt": "2026-03-16T16:30:54.313Z",
+	"id": "0383e7df-b8b5-4f1a-8374-2a089d733382",
+	"createdAt": "2026-03-16T17:42:06.451Z",
 	"createdBy": "playwright",
 	"name": "package-end2end-role-1",
 	"description": "This is a sample role for End2End Test - 1",
-	"ver": "26.03.16.1631",
+	"ver": "26.03.16.1742",
 	"isGlobalAdmin": false,
-	"package": "ad50254e-0ce6-4117-9f16-c7ee535ff702",
+	"package": "eb322fce-7051-4577-b785-ca447c63c192",
 	"acl": [
 		{
 			"id": "workflowtaskaction_E",
