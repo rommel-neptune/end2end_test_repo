@@ -1,6 +1,6 @@
 {
-	"id": "29123095-fd23-f111-9a49-000d3ab0df3e",
-	"createdAt": "2026-03-20T01:39:07.183Z",
+	"id": "a6567e98-5d2e-4700-a491-ec0e6f642935",
+	"createdAt": "2026-03-23T00:43:46.574Z",
 	"createdBy": "playwright",
 	"git": {
 		"remote": "https://github.com/rommel-neptune/end2end_test_repo",
@@ -8,7 +8,7 @@
 	},
 	"name": "development-package-cinightly-package-1",
 	"description": "This is sample package for End2End Test - version 1",
-	"ver": "26.03.20.0153",
+	"ver": "26.03.23.0055",
 	"enableCICD": true,
 	"internalReadOnly": false,
 	"oeVersion": null,
@@ -34,7 +34,7 @@
 	"tilegroup_layout": [],
 	"launchpad": [
 		{
-			"id": "3bbd2fcb-fe23-f111-9a49-000d3ab0df3e",
+			"id": "035cdb23-e6f3-4157-9fd9-480835b0393e",
 			"name": "package-cinightly-launchpad-1",
 			"description": "This is a sample launchpad for end2end test - version 1"
 		}
@@ -43,7 +43,7 @@
 	"certificates": [],
 	"role": [
 		{
-			"id": "ea4cb782-fe23-f111-9a49-000d3ab0df3e",
+			"id": "552d1e3c-2d0c-414c-93c3-03043a03473b",
 			"name": "package-end2end-role-1",
 			"description": "This is a sample role for End2End Test - 1"
 		}

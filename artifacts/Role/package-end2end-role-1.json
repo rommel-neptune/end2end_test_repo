@@ -1,12 +1,12 @@
 {
-	"id": "ea4cb782-fe23-f111-9a49-000d3ab0df3e",
-	"createdAt": "2026-03-20T01:45:49.333Z",
+	"id": "552d1e3c-2d0c-414c-93c3-03043a03473b",
+	"createdAt": "2026-03-23T00:49:20.199Z",
 	"createdBy": "playwright",
 	"name": "package-end2end-role-1",
 	"description": "This is a sample role for End2End Test - 1",
-	"ver": "26.03.20.0145",
+	"ver": "26.03.23.0049",
 	"isGlobalAdmin": false,
-	"package": "29123095-fd23-f111-9a49-000d3ab0df3e",
+	"package": "a6567e98-5d2e-4700-a491-ec0e6f642935",
 	"acl": [
 		{
 			"id": "workflowtaskaction_E",
@@ -265,12 +265,20 @@
 			"name": "Launchpad Layout"
 		},
 		{
+			"id": "developmentlaunchpaddesigner_E",
+			"name": "Launchpad Designer"
+		},
+		{
 			"id": "developmentjshelpers_E",
 			"name": "Code Snippets"
 		},
 		{
 			"id": "developmenti18n_E",
 			"name": "I18n Text & Translation"
+		},
+		{
+			"id": "developmentfonts_E",
+			"name": "Fonts"
 		},
 		{
 			"id": "developmentemailtemplate_E",
