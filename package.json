@@ -1,7 +1,7 @@
 {
-  "name": "development-package-cinightly-package-1",
+  "name": "Package-TS-02-1002-A100",
   "version": "1.0.0",
-  "description": "This is sample package for End2End Test - version 1",
+  "description": "This is sample package for End2End Test - version A100",
   "author": "Neptune Software",
   "license": "LicenseRef-LICENSE",
   "private": true,
