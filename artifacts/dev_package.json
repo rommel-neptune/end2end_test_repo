@@ -8,7 +8,7 @@
 	},
 	"name": "Package-TS-02-1002-A100",
 	"description": "This is sample package for End2End Test - version A100",
-	"ver": "26.05.27.1009",
+	"ver": "26.05.27.1010",
 	"enableCICD": true,
 	"internalReadOnly": false,
 	"oeVersion": null,
