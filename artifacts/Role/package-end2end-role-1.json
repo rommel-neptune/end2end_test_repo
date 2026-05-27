@@ -1,12 +1,12 @@
 {
-	"id": "5bcf04aa-dc74-44a1-bf09-b2004ede07cc",
-	"createdAt": "2026-05-27T02:57:00.923Z",
+	"id": "487215fa-7859-f111-8fcb-000d3ab55972",
+	"createdAt": "2026-05-27T03:05:56.210Z",
 	"createdBy": "neptune_bot_agent",
 	"name": "package-end2end-role-1",
 	"description": "This is a sample role for End2End Test - 1",
-	"ver": "26.05.27.0257",
+	"ver": "26.05.27.0306",
 	"isGlobalAdmin": false,
-	"package": "12318568-1a7d-4c9a-b758-33171144f15a",
+	"package": "c716b91a-7859-f111-8fcb-000d3ab55972",
 	"acl": [
 		{
 			"id": "workflowtaskaction_E",
@@ -119,10 +119,6 @@
 		{
 			"id": "security_E",
 			"name": "Security"
-		},
-		{
-			"id": "sapintegrationhubmcpdesigner_E",
-			"name": "Hub MCP Designer"
 		},
 		{
 			"id": "sapintegrationhubapidesigner_E",
@@ -269,20 +265,12 @@
 			"name": "Launchpad Layout"
 		},
 		{
-			"id": "developmentlaunchpaddesigner_E",
-			"name": "Launchpad Designer"
-		},
-		{
 			"id": "developmentjshelpers_E",
 			"name": "Code Snippets"
 		},
 		{
 			"id": "developmenti18n_E",
 			"name": "I18n Text & Translation"
-		},
-		{
-			"id": "developmentfonts_E",
-			"name": "Fonts"
 		},
 		{
 			"id": "developmentemailtemplate_E",
