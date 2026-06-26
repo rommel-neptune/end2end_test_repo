@@ -1,12 +1,12 @@
 {
-	"id": "4fd9254f-8f55-44b8-9061-922be9bd91f5",
-	"createdAt": "2026-06-24T02:36:18.749Z",
+	"id": "494227fd-b193-4fe1-8f59-a24495ef1477",
+	"createdAt": "2026-06-26T02:46:13.920Z",
 	"createdBy": "neptune_bot_agent",
 	"name": "package-end2end-role-1",
 	"description": "This is a sample role for End2End Test - 1",
-	"ver": "26.06.24.0236",
+	"ver": "26.06.26.0246",
 	"isGlobalAdmin": false,
-	"package": "5f632462-54f9-4868-9018-885eb67abe54",
+	"package": "064175c4-874c-4fa6-aa04-23c5af1fb3cf",
 	"acl": [
 		{
 			"id": "workflowtaskaction_E",
@@ -269,10 +269,6 @@
 			"name": "Launchpad Layout"
 		},
 		{
-			"id": "developmentlaunchpaddesigner_E",
-			"name": "Launchpad Designer"
-		},
-		{
 			"id": "developmentjshelpers_E",
 			"name": "Code Snippets"
 		},
@@ -331,6 +327,10 @@
 		{
 			"id": "development_E",
 			"name": "Development"
+		},
+		{
+			"id": "designlaunchpaddesigner_E",
+			"name": "Launchpad Designer - Beta"
 		},
 		{
 			"id": "design_E",
