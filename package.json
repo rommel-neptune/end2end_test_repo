@@ -1,7 +1,7 @@
 {
-  "name": "Package-TS-02-1002-A100",
+  "name": "neptune-automation-package-01-1001",
   "version": "1.0.0",
-  "description": "This is sample package for End2End Test - version A100",
+  "description": "Collection of artifacts for use in Development Package end-to-end testing",
   "author": "Neptune Software",
   "license": "LicenseRef-LICENSE",
   "private": true,
