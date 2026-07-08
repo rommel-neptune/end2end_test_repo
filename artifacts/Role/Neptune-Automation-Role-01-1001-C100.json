@@ -1,0 +1,11 @@
+{
+	"id": "91c4476f-5422-4841-abc0-c0aa74f3f53c",
+	"createdAt": "2026-07-08T04:07:29.838Z",
+	"createdBy": "neptune_bot_agent",
+	"name": "Neptune-Automation-Role-01-1001-C100",
+	"description": null,
+	"ver": "26.07.08.0407",
+	"isGlobalAdmin": false,
+	"package": "76618a1a-7434-4965-bac5-80b8ad8cec92",
+	"acl": []
+}
