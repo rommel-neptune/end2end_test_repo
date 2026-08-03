@@ -1,12 +1,12 @@
 {
-	"id": "7da89aa2-9b89-49d0-afb8-5f74abb4b849",
-	"createdAt": "2026-07-31T04:06:46.536Z",
+	"id": "a604b0fb-5a92-4c23-8aad-0a5f94e3b41a",
+	"createdAt": "2026-08-03T16:49:35.339Z",
 	"createdBy": "neptune_bot_agent",
 	"name": "Neptune-Automation-Role-01-1001-C100",
 	"description": "This is a sample role for End2End Test - 1",
-	"ver": "26.07.31.0406",
+	"ver": "26.08.03.1649",
 	"isGlobalAdmin": false,
-	"package": "4a9e4603-1e28-44ed-8053-dbe90dc4079a",
+	"package": "c2959d5b-5440-4ed4-b5ac-68d444056ffd",
 	"acl": [
 		{
 			"id": "workflowtaskaction_E",
@@ -407,6 +407,10 @@
 		{
 			"id": "aitools_E",
 			"name": "AI Tool"
+		},
+		{
+			"id": "aisapdatasources_E",
+			"name": "SAP Data Sources"
 		},
 		{
 			"id": "aiprompts_E",
