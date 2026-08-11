@@ -1,12 +1,12 @@
 {
-	"id": "13df2398-8c91-f111-b337-000d3a68edad",
-	"createdAt": "2026-08-06T11:47:26.943Z",
+	"id": "29f95a02-8d95-f111-9b33-70a8a57ad43b",
+	"createdAt": "2026-08-11T14:00:29.796Z",
 	"createdBy": "neptune_bot_agent",
 	"name": "Neptune-Automation-Role-01-1001-C100",
 	"description": "This is a sample role for End2End Test - 1",
-	"ver": "26.08.06.1147",
+	"ver": "26.08.11.1400",
 	"isGlobalAdmin": false,
-	"package": "6c7f4bc9-8b91-f111-b337-000d3a68edad",
+	"package": "cd4aec77-8c95-f111-9b33-70a8a57ad43b",
 	"acl": [
 		{
 			"id": "workflowtaskaction_E",
@@ -119,6 +119,10 @@
 		{
 			"id": "security_E",
 			"name": "Security"
+		},
+		{
+			"id": "sapintegrationhubmcpdesigner_E",
+			"name": "Hub MCP Designer"
 		},
 		{
 			"id": "sapintegrationhubapidesigner_E",
@@ -273,6 +277,10 @@
 			"name": "I18n Text & Translation"
 		},
 		{
+			"id": "developmentfonts_E",
+			"name": "Fonts"
+		},
+		{
 			"id": "developmentemailtemplate_E",
 			"name": "Email Template"
 		},
@@ -319,6 +327,10 @@
 		{
 			"id": "development_E",
 			"name": "Development"
+		},
+		{
+			"id": "designlaunchpaddesigner_E",
+			"name": "Launchpad Designer - Beta"
 		},
 		{
 			"id": "design_E",
