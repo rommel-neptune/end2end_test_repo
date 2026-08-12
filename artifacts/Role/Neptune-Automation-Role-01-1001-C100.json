@@ -1,12 +1,12 @@
 {
-	"id": "bc34fbcc-9695-f111-9b33-70a8a57ad43b",
-	"createdAt": "2026-08-11T15:10:35.230Z",
+	"id": "8f7895b1-3aec-4e07-8eb6-18e565aefcbd",
+	"createdAt": "2026-08-12T02:55:26.966Z",
 	"createdBy": "neptune_bot_agent",
 	"name": "Neptune-Automation-Role-01-1001-C100",
 	"description": "This is a sample role for End2End Test - 1",
-	"ver": "26.08.11.1510",
+	"ver": "26.08.12.0255",
 	"isGlobalAdmin": false,
-	"package": "adfa660f-9695-f111-9b33-70a8a57ad43b",
+	"package": "9e72edeb-6429-4ad3-b15e-3a4cca73b35d",
 	"acl": [
 		{
 			"id": "workflowtaskaction_E",
@@ -193,6 +193,18 @@
 			"name": "Application Log"
 		},
 		{
+			"id": "processflowsoverview_E",
+			"name": "Process Flows Overview"
+		},
+		{
+			"id": "processflows_E",
+			"name": "Process Flows"
+		},
+		{
+			"id": "processflowdesigner_E",
+			"name": "Process Flow Designer"
+		},
+		{
 			"id": "monitorsystemlogs_E",
 			"name": "System Logs"
 		},
@@ -353,6 +365,10 @@
 			"name": "OData Mock Data"
 		},
 		{
+			"id": "connectivityoauthclients_E",
+			"name": "OAuth Clients"
+		},
+		{
 			"id": "connectivityintegrationcardtest_E",
 			"name": "Integration Card Test"
 		},
@@ -391,6 +407,10 @@
 		{
 			"id": "aitools_E",
 			"name": "AI Tool"
+		},
+		{
+			"id": "aisapdatasources_E",
+			"name": "SAP Data Sources"
 		},
 		{
 			"id": "aiprompts_E",
