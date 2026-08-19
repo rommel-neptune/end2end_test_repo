@@ -1,12 +1,12 @@
 {
-	"id": "8f7895b1-3aec-4e07-8eb6-18e565aefcbd",
-	"createdAt": "2026-08-12T02:55:26.966Z",
+	"id": "d1da726c-b334-4b5e-b467-232dd86d1df1",
+	"createdAt": "2026-08-19T03:05:47.982Z",
 	"createdBy": "neptune_bot_agent",
 	"name": "Neptune-Automation-Role-01-1001-C100",
 	"description": "This is a sample role for End2End Test - 1",
-	"ver": "26.08.12.0255",
+	"ver": "26.08.19.0305",
 	"isGlobalAdmin": false,
-	"package": "9e72edeb-6429-4ad3-b15e-3a4cca73b35d",
+	"package": "5be1b9ee-82dc-4655-8018-4fa39e70adf8",
 	"acl": [
 		{
 			"id": "workflowtaskaction_E",
@@ -342,7 +342,7 @@
 		},
 		{
 			"id": "designlaunchpaddesigner_E",
-			"name": "Launchpad Designer - Beta"
+			"name": "Launchpad Designer"
 		},
 		{
 			"id": "design_E",
