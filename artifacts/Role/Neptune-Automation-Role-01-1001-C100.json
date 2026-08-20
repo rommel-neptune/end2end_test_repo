@@ -1,12 +1,12 @@
 {
-	"id": "d1da726c-b334-4b5e-b467-232dd86d1df1",
-	"createdAt": "2026-08-19T03:05:47.982Z",
+	"id": "7962968a-da02-4487-9e9d-e4a1f912102d",
+	"createdAt": "2026-08-20T22:39:37.267Z",
 	"createdBy": "neptune_bot_agent",
 	"name": "Neptune-Automation-Role-01-1001-C100",
 	"description": "This is a sample role for End2End Test - 1",
-	"ver": "26.08.19.0305",
+	"ver": "26.08.20.2239",
 	"isGlobalAdmin": false,
-	"package": "5be1b9ee-82dc-4655-8018-4fa39e70adf8",
+	"package": "255ee06b-2d47-4d3a-bb4e-0ac982956a47",
 	"acl": [
 		{
 			"id": "workflowtaskaction_E",
