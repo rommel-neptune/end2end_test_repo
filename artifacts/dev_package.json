@@ -1,6 +1,6 @@
 {
-	"id": "f28e3a6f-1abb-4bf4-bc0a-88c07c82789e",
-	"createdAt": "2026-09-09T08:51:49.222Z",
+	"id": "6437c6b8-5649-4387-85e2-dd51e9c8e78f",
+	"createdAt": "2026-09-09T10:18:00.100Z",
 	"createdBy": "neptune_bot_agent",
 	"git": {
 		"remote": "https://github.com/rommel-neptune/end2end_test_repo",
@@ -8,7 +8,7 @@
 	},
 	"name": "neptune-automation-package-01-1001",
 	"description": "Collection of artifacts for use in Development Package end-to-end testing",
-	"ver": "26.09.09.0904",
+	"ver": "26.09.09.1029",
 	"enableCICD": true,
 	"internalReadOnly": false,
 	"oeVersion": null,
@@ -34,7 +34,7 @@
 	"tilegroup_layout": [],
 	"launchpad": [
 		{
-			"id": "1107ae54-45f6-4dac-ae8f-2fec2dd0d9c0",
+			"id": "23fd66d3-2d75-4916-bacf-c8fa0efc094f",
 			"name": "neptune-automation-launchpad-01-1001",
 			"description": "This is a sample launchpad for use in Development Package end-to-end testing"
 		}
@@ -43,7 +43,7 @@
 	"certificates": [],
 	"role": [
 		{
-			"id": "a60e4dc9-6590-45c7-b8dd-854e32bb6464",
+			"id": "bead4352-e02b-434c-821d-9f03b2b711be",
 			"name": "Neptune-Automation-Role-01-1001-C100",
 			"description": "This is a sample role for End2End Test - 1"
 		}
