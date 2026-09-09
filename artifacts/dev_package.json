@@ -8,7 +8,7 @@
 	},
 	"name": "neptune-automation-package-01-1001",
 	"description": "Collection of artifacts for use in Development Package end-to-end testing",
-	"ver": "26.09.09.1749",
+	"ver": "26.09.09.1750",
 	"enableCICD": true,
 	"internalReadOnly": false,
 	"oeVersion": null,
