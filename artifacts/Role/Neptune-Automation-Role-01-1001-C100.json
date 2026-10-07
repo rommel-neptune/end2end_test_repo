@@ -1,12 +1,12 @@
 {
-	"id": "10d3d6ef-e0c1-f111-a6a9-002248a01071",
-	"createdAt": "2026-10-06T23:52:07.616Z",
+	"id": "a2350a69-76ea-41e1-bdf8-edffa12a56d8",
+	"createdAt": "2026-10-07T02:20:09.603Z",
 	"createdBy": "neptune_bot_agent",
 	"name": "Neptune-Automation-Role-01-1001-C100",
 	"description": "This is a sample role for End2End Test - 1",
-	"ver": "26.10.06.2352",
+	"ver": "26.10.07.0220",
 	"isGlobalAdmin": false,
-	"package": "e42f9016-e0c1-f111-a6a9-002248a01071",
+	"package": "b3ad5e09-cb18-47e2-963a-908911fa410b",
 	"acl": [
 		{
 			"id": "workflowtaskaction_E",
@@ -193,6 +193,18 @@
 			"name": "Application Log"
 		},
 		{
+			"id": "processflowsoverview_E",
+			"name": "Process Flows Overview"
+		},
+		{
+			"id": "processflows_E",
+			"name": "Process Flows"
+		},
+		{
+			"id": "processflowdesigner_E",
+			"name": "Process Flow Designer"
+		},
+		{
 			"id": "monitorsystemlogs_E",
 			"name": "System Logs"
 		},
@@ -330,7 +342,7 @@
 		},
 		{
 			"id": "designlaunchpaddesigner_E",
-			"name": "Launchpad Designer - Beta"
+			"name": "Launchpad Designer"
 		},
 		{
 			"id": "design_E",
@@ -351,6 +363,10 @@
 		{
 			"id": "connectivityodatamock_E",
 			"name": "OData Mock Data"
+		},
+		{
+			"id": "connectivityoauthclients_E",
+			"name": "OAuth Clients"
 		},
 		{
 			"id": "connectivityintegrationcardtest_E",
@@ -391,6 +407,10 @@
 		{
 			"id": "aitools_E",
 			"name": "AI Tool"
+		},
+		{
+			"id": "aisapdatasources_E",
+			"name": "SAP Data Sources"
 		},
 		{
 			"id": "aiprompts_E",
