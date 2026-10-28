@@ -1,12 +1,12 @@
 {
-	"id": "a52f3dc2-558d-42b1-a8f6-b8cc0b4f2539",
-	"createdAt": "2026-10-28T04:33:56.838Z",
+	"id": "025ab23f-c6d2-f111-bf5b-000d3a68edad",
+	"createdAt": "2026-10-28T11:53:54.946Z",
 	"createdBy": "neptune_bot_agent",
 	"name": "Neptune-Automation-Role-01-1001-C100",
 	"description": "This is a sample role for End2End Test - 1",
-	"ver": "26.10.28.0434",
+	"ver": "26.10.28.1154",
 	"isGlobalAdmin": false,
-	"package": "246b86c4-8992-4313-b8a8-c6c0a976c96c",
+	"package": "e0539a55-c5d2-f111-bf5b-000d3a68edad",
 	"acl": [
 		{
 			"id": "workflowtaskaction_E",
@@ -121,10 +121,6 @@
 			"name": "Security"
 		},
 		{
-			"id": "sapintegrationhubmcpdesigner_E",
-			"name": "Hub MCP Designer"
-		},
-		{
 			"id": "sapintegrationhubapidesigner_E",
 			"name": "Hub API Designer"
 		},
@@ -191,18 +187,6 @@
 		{
 			"id": "runapplog_E",
 			"name": "Application Log"
-		},
-		{
-			"id": "processflowsoverview_E",
-			"name": "Process Flows Overview"
-		},
-		{
-			"id": "processflows_E",
-			"name": "Process Flows"
-		},
-		{
-			"id": "processflowdesigner_E",
-			"name": "Process Flow Designer"
 		},
 		{
 			"id": "monitorsystemlogs_E",
@@ -289,10 +273,6 @@
 			"name": "I18n Text & Translation"
 		},
 		{
-			"id": "developmentfonts_E",
-			"name": "Fonts"
-		},
-		{
 			"id": "developmentemailtemplate_E",
 			"name": "Email Template"
 		},
@@ -341,10 +321,6 @@
 			"name": "Development"
 		},
 		{
-			"id": "designlaunchpaddesigner_E",
-			"name": "Launchpad Designer"
-		},
-		{
 			"id": "design_E",
 			"name": "Design"
 		},
@@ -363,10 +339,6 @@
 		{
 			"id": "connectivityodatamock_E",
 			"name": "OData Mock Data"
-		},
-		{
-			"id": "connectivityoauthclients_E",
-			"name": "OAuth Clients"
 		},
 		{
 			"id": "connectivityintegrationcardtest_E",
@@ -407,10 +379,6 @@
 		{
 			"id": "aitools_E",
 			"name": "AI Tool"
-		},
-		{
-			"id": "aisapdatasources_E",
-			"name": "SAP Data Sources (BETA)"
 		},
 		{
 			"id": "aiprompts_E",
